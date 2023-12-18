@@ -21,6 +21,7 @@ bool compare_network_dev(char* name, char* err_buf)
       return true;
     }
   }
+  pcap_freealldevs(all_dev);
   return false;
 }
 
