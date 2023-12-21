@@ -1,4 +1,8 @@
-# steal-c
+# aladdin
+
+# Deps
+-   Selenium
+-   more.
 
 # TO-DO 
 ## Wireshark
