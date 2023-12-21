@@ -32,3 +32,14 @@ Diffie Hellman
 
 Other
 -   Capturing session keys probably will probably be a result
+
+# Resources
+[TLS on Wireshark Wiki](https://gitlab.com/wireshark/wireshark/-/wikis/TLS#using-the-pre-master-secret)
+
+## Understanding TLSv1.3
+[David Wong: TLSv1.3 Part 1](https://www.youtube.com/watch?v=m8cRCACNz-A)
+[David Wong: TLSv1.3 Part 2](https://www.youtube.com/watch?v=-BjXxJxcKOA)
+[David Wong: TLSv1.3 Part 3](https://www.youtube.com/watch?v=HLssuFSgok8)
+
+[Transport Layer Security](https://www.youtube.com/watch?v=AlE5X1NlHgg)
+[Diffie-Hellman](https://www.youtube.com/watch?v=NmM9HA2MQGI)
