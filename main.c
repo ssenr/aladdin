@@ -30,9 +30,11 @@ int main(int argc, char* argv[])
 {
   char err_buf[PCAP_ERRBUF_SIZE];
   char* netwrk_dev = argv[1];
+
+  curl_global_init(CURL_GLOBAL_ALL);
   
   if (compare_network_dev(netwrk_dev, err_buf)) {
-    printf("Success \n");
+    //CURL* handler = curl_easy_init(); 
     return 0;
   }
   return 1;
